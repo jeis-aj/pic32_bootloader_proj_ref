@@ -1,0 +1,7 @@
+*.swp
+*.swo
+*.o
+boot/boot.X/.generated_files/*
+app/app.X/.generated_files/*
+*Makefile-*
+*.yml
